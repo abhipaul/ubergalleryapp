@@ -16,3 +16,4 @@ Based on Image cache and persistance storage.
 # Things to be complete
 * Unit testing is pending.
 * Minor fixes of bugs required to go into production.
+Testing
